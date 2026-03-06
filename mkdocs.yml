@@ -1,0 +1,7 @@
+site_name: Mi Configuración de ArchLinux
+nav:
+    - Presentación: index.md
+    - Configuración inicial: Configuracion/configuracion.md
+    - Terminal: Configuracion/terminal.md
+theme:
+    name: simple-blog
