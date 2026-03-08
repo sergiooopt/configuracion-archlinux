@@ -1,3 +1,5 @@
+# Configuración de terminal
+
 Explicare los pasos para configurar una shell **fish** con **oh-my-posh** (un proyecto para personalizar el prompt compatible con distintos shell).
 
 ---

@@ -1,3 +1,7 @@
+# Presentación
+
+---
+
 ### ¿Por qué Arch Linux?
 
 He elegido Arch Linux debido a que tiene un sistema de actualizaciones **rolling release**. Esto significa que es una distribución que está en constante actualización.

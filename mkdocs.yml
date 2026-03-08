@@ -4,4 +4,5 @@ nav:
     - Configuración inicial: Configuracion/configuracion.md
     - Terminal: Configuracion/terminal.md
 theme:
-    name: simple-blog
+    # name: simple-blog
+    name: dracula

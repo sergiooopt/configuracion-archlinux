@@ -1,3 +1,5 @@
+# Configuración inicial
+
 Ahora vamos a hacer los primeros pasos de la configuración.
 
 ---
