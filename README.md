@@ -57,4 +57,4 @@ Una vez instalado todo, puedes iniciar el servidor local de MkDocs:
 mkdocs serve
 ```
 
-Para ver la documentacion ve a 'http://localhost:8000' en cualquier navegador web.
+Para ver la documentacion ve a `http://localhost:8000` en cualquier navegador web.
