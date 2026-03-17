@@ -7,9 +7,9 @@ Bienvenido a la documentación. Aquí tienes los apartados disponibles:
 ## Secciones
 
 - [Presentación](doc/presentacion.md)
+<!-- - [Instalación](doc/instalacion.md) -->
 - [Configuración](doc/configuracion.md)
 - [Terminal](doc/terminal.md)
-- [Instalación](doc/instalacion.md)
 
 ---
 
