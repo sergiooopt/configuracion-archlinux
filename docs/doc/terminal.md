@@ -67,7 +67,7 @@ Debajo del comentario añadimos lo que queremos que se ejecute en cada nueva ses
 
 ![Configuración de fish](../images/2-config-fish.png)
 
-¡¡En la configuración está mál escrito `fastfetch -c palofetch-jsonc` deberia ser: `fastfetch -c paleofetch.jsonc`!!
+¡¡En la configuración está mal escrito `fastfetch -c palofetch-jsonc` deberia ser `fastfetch -c paleofetch.jsonc`!!
 
 ---
 
